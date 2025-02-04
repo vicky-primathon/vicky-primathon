@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky-primathon&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vicky-primathon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
