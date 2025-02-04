@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vicky-primathon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-primathon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky-primathon&show_icons=true&theme=transparent)
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky-primathon&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-primathon)](https://github.com/vicky-primathon)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vicky-primathon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
