@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vicky-primathon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-primathon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+&nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicky-primathon&show_icons=true&locale=en" alt="ashishps1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-primathon&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vicky-primathon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
