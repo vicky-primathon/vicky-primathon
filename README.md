@@ -28,12 +28,8 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vicky-primathon&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vicky-primathon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-primathon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky-primathon&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-primathon)](https://github.com/vicky-primathon)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vicky-primathon&theme=bright&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky-primathon&theme=bright&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vicky-primathon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
